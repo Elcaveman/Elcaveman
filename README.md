@@ -23,9 +23,9 @@
 
 Check the repositories section to see my efforts! Hope, you will enjoy it 😄!
 
-<a href="https://www.linkedin.com/in/el-mehdi-oudaoud-b796001a1/">
-  <img align="left" alt="Mehdi's Linkdein" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+<a href="https://www.linkedin.com/in/el-mehdi-oudaoud-b796001a1/" target="_blank">
+  <img align="left" alt="Mehdi's Linkdein" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
 </a>
-<a href="https://github.com/Elcaveman/">
+<a href="https://github.com/Elcaveman/" target="_blank">
   <img align="left" alt="Mehdi's Github" width="25px" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png" />
 </a>
