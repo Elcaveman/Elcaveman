@@ -17,7 +17,7 @@
 - Data Science and ML research enthusiast.
 - In love with Web Technologies and Networks ✨.
 - I want to know how everything works at a low level 🤔.
-- A 2nd year student at The National School of Computer Science and Systems Analysis [(ENSIAS)](http://ensias.um5.ac.ma/), Software Engineering Major. 
+- A 3nd year student at The National School of Computer Science and Systems Analysis [(ENSIAS)](http://ensias.um5.ac.ma/), Software Engineering Major.
 
 <!--**To know more:**  [Website](website), [LinkedIn](linkedin, [Email](email)-->
 
