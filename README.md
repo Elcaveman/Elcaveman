@@ -12,8 +12,8 @@
 
 ## This is El Mehdi Oudaoud!
 #### Full-stack Web Developer | Software Engineering Student
-#### *Currently looking for an Internship as a Full-stack/Front-end/Back-end Developer !*
-- Proefficent with Python - Django as well as Vanilla Javascript ⚡. 
+#### *Currently looking for a Job as a Full-stack/ Developer !*
+- Proefficent with Django ,Spring Boot as well as Angular ⚡. 
 - Data Science and ML research enthusiast.
 - In love with Web Technologies and Networks ✨.
 - I want to know how everything works at a low level 🤔.
