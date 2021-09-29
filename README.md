@@ -29,9 +29,12 @@ And feel free to contact me on LinkedIn or via Email. Have a
   <img align="left" alt="Mehdi's Email" width="25px" src="https://cdn-icons-png.flaticon.com/512/1033/1033942.png"/>
 </a>
 <a href="https://www.linkedin.com/in/el-mehdi-oudaoud-b796001a1/" target="_blank">
-  <img align="left" alt="Mehdi's Linkdin" width="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
+  <img align="left" alt="Mehdi's Linkdin" width="25px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>
 </a>
 <a href="https://github.com/Elcaveman/" target="_blank">
-  <img align="left" alt="Mehdi's Github" width="25px" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png" />
+  <img align="left" alt="Mehdi's Github" width="25px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
 </a>
-<!-- make sure to check the icons creators at flaticon.com "https://www.flaticon.com/fr/auteurs/smashicons" -->
+<!-- make sure to check the icons creators at flaticon.com 
+"https://www.flaticon.com/fr/auteurs/smashicons" : Email icon
+"https://www.freepik.com" : Linkdin icon
+"https://www.flaticon.com/fr/auteurs/pixel-perfect" : Github Icon-->
