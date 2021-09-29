@@ -8,17 +8,6 @@
 </a>
 -->
 
-<br />
-<a href="mailto:02.oudaoud@gmail.com?subject=[GitHub-Elcaveman]%20Thanks%20for%20checking%20my%20profil%20😊">
-  <img align="left" alt="Mehdi's Email" width="25px" src="https://cdn-icons-png.flaticon.com/512/1033/1033942.png"/>
-</a>
-<a href="https://www.linkedin.com/in/el-mehdi-oudaoud-b796001a1/" target="_blank">
-  <img align="left" alt="Mehdi's Linkdin" width="25px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>
-</a>
-<a href="https://github.com/Elcaveman/" target="_blank">
-  <img align="left" alt="Mehdi's Github" width="25px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
-</a>
-<br />
 ## My name is El Mehdi Oudaoud
 #### I'm a Full-stack Web Developer | Software Engineering Student
 #### *Currently looking for a Job as a Developer !*
