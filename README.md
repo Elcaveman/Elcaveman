@@ -4,9 +4,6 @@
 <a href="https://www.linkedin.com/in/el-mehdi-oudaoud-b796001a1/" target="_blank">
   <img align="left" alt="Mehdi's Linkdin" width="25px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>
 </a>
-<a href="https://github.com/Elcaveman/" target="_blank">
-  <img align="left" alt="Mehdi's Github" width="25px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
-</a>
 <br/>
 
 ### Hi there 👋
@@ -38,9 +35,9 @@ Check the repositories section to see my efforts Hope, you will enjoy it 😄! (
 <a href="https://www.linkedin.com/in/el-mehdi-oudaoud-b796001a1/" target="_blank">
   <img align="left" alt="Mehdi's Linkdin" width="25px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>
 </a>
-<a href="https://github.com/Elcaveman/" target="_blank">
+<!--<a href="https://github.com/Elcaveman/" target="_blank">
   <img align="left" alt="Mehdi's Github" width="25px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
-</a>
+</a>-->
 <!-- make sure to check the icons creators at flaticon.com 
 "https://www.flaticon.com/fr/auteurs/smashicons" : Email icon
 "https://www.freepik.com" : Linkdin icon
