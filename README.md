@@ -25,7 +25,7 @@ Currently pursuing my last study year at The National School of Computer Science
 Check the repositories section to see my efforts Hope, you will enjoy it 😄! (Although some collaborative projects are hidden 🤫 )
 
 And feel free to contact me on LinkedIn or via Email. Have a 
-<a href="mailto:02.oudaoud@gmail.com?subject=[GitHub]%20Source%20Han%20Sans">
+<a href="mailto:02.oudaoud@gmail.com?subject=[GitHub-Elcaveman]%20Thanks%20for%20checking%20my%20profil%20😊">
   <img align="left" alt="Mehdi's Email" width="25px" src="https://cdn-icons-png.flaticon.com/512/1033/1033942.png"/>
 </a>
 <a href="https://www.linkedin.com/in/el-mehdi-oudaoud-b796001a1/" target="_blank">
