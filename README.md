@@ -17,10 +17,11 @@
 
 ## My name is El Mehdi Oudaoud
 #### I'm a Full-stack Web Developer | Software Engineering Student
-#### *Currently looking for a Job as a Developer !*
+#### *Currently looking for an interesting internship for my Degree Project!*
 - Proefficent with Django ,Spring Boot as well as Angular ⚡.
 - Loves working on intricate solutions for your problems 💕.
 - Got Deep Knowledge about Web Technologies and Networks ✨.
+- Currently,  broadening my knowledge in computer vision, 3D modeling and animation 📐.
 - To solve issues/bugs I feel the never ending urge to learn more about low level concepts that builds up towards the source of problems 🤔.
 - Got a solid foundation in Mathematics and Physics and can speak fluently in English , French and Arabic.
 Currently pursuing my last study year at The National School of Computer Science and Systems Analysis [(ENSIAS)](http://ensias.um5.ac.ma/), and looking for an interesting project to work on
