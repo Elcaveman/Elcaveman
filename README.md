@@ -17,7 +17,6 @@
 
 ## My name is El Mehdi Oudaoud
 #### I'm a Full-stack Web Developer | Software Engineering Student
-#### *Currently looking for an interesting internship for my Degree Project!*
 - Proefficent with Django ,Spring Boot as well as Angular ⚡.
 - Loves working on intricate solutions for your problems 💕.
 - Got Deep Knowledge about Web Technologies and Networks ✨.
