@@ -1,6 +1,27 @@
+<img src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv"/>
+
+<a href="https://www.linkedin.com/in/el-mehdi-oudaoud-b796001a1/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/ElCaveman2" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="02.oudaoud@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+	
+<br/> 
+
+
+
+
+
+
 ### Hi there 👋
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Elcaveman&show_icons=true"/>](https://github.com/Elcaveman/)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Elcaveman&show_icons=true&theme=tokyonight"/>](https://github.com/Elcaveman/)
 
 <!--<a href="channel">
   <img align="left" alt="Mehdi's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
@@ -23,12 +44,11 @@ At the moment I work for Datama-Paris <a href="https://www.datama.io/fr/accueil/
 <!--vertical-align: text-bottom; to datama image-->
 Check the repositories section to see my project.Hope, you'll find it usefull 😄! (Although some collaborative projects are hidden 🤫 ). Feel free to contact me via LinkedIn or Email.
 <br /><br />
-<a href="mailto:02.oudaoud@gmail.com?subject=[GitHub-Elcaveman]%20Thanks%20for%20checking%20my%20profil%20😊">
-  <img align="left" alt="Mehdi's Email" width="25px" src="https://cdn-icons-png.flaticon.com/512/1033/1033942.png"/>
-</a>
-<a href="https://www.linkedin.com/in/el-mehdi-oudaoud-b796001a1/" target="_blank">
-  <img align="left" alt="Mehdi's Linkdin" width="25px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>
-</a>
+
+<h2> Github Stats </h2> 
+<a href="https://github.com/Elcaveman/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcaveman&layout=compact&theme=tokyonight" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Elcaveman&theme=tokyonight" alt="Elcaveman" />
+<br/>
 <!--<a href="https://github.com/Elcaveman/" target="_blank">
   <img align="left" alt="Mehdi's Github" width="25px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
 </a>-->
