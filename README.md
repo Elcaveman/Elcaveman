@@ -10,8 +10,6 @@
 <a href="02.oudaoud@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-	
 <br/> 
 
 
@@ -19,40 +17,50 @@
 
 
 
-### Hi there 👋
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Elcaveman&show_icons=true&theme=tokyonight"/>](https://github.com/Elcaveman/)
+
+
 
 <!--<a href="channel">
   <img align="left" alt="Mehdi's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
 </a>
 -->
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Hello, My name is El Mehdi Oudaoud:
+- 🏦 I'm a 22 years old software engineer, working for <a href="https://www.datama.io/fr/accueil/" target="_blank">Datama Paris</a> a startup incubated by Station F. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<!-- - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)-->
+- 📚 Got a solid foundation in Mathematics, Physics, Networks & Web Technologies.
+- 💻 Proefficent with **Python**, **Java** , **SQL** and **Javascript**.
+- ⚡ Currently learning about Angular and Pandas 🐼.
+- 💬 What's your favourite quote? Mine is : **It works on my machine.**
+- 📖 Languages: English - Français - العربة - 日本語 ( just kidding I do speak japanese but my writing is caveman level )
+- 🔺 Graduated from [École Nationale Supérieure d'Informatique et d'Analyse des Systèmes](http://ensias.um5.ac.ma/). (Thank you Youtube)
 
-## My name is El Mehdi Oudaoud
-#### I'm a Full-stack Web Developer | Software Engineering Student
-- Proefficent with Python, Java and Javascript ⚡.
-- Loves working on intricate solutions for your problems 💕.
-- Got a solid foundation in Web Technologies and Networks ✨.
-- Currently, broadening my knowledge in computer vision, 3D modeling and animation 📐, as well Big Data optimisations .
-- To solve issues/bugs I feel the never ending urge to dive deep into low level causes in order to explain the source of problems 🤔.
-- Got a solid foundation in Mathematics and Physics.
-- Can speak and write on a proffessional level in English , French and Arabic. Currently learning Japanese and Spanish. 
-Currently pursuing my last study year at The National  School of Computer Science and Systems Analysis [(ENSIAS)](http://ensias.um5.ac.ma/).
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+	
+	
+	
+</p>
 
-<!--**To know more:**  [Website](website), [LinkedIn](linkedin, [Email](email)-->
-At the moment I work for Datama-Paris <a href="https://www.datama.io/fr/accueil/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/67323280?s=64&amp;v=4" alt="DataMa-Solutions" size="32" height="32" width="32" data-view-component="true"></a> as a full-time Full Stack Web Developer.
-<!--vertical-align: text-bottom; to datama image-->
-Check the repositories section to see my project.Hope, you'll find it usefull 😄! (Although some collaborative projects are hidden 🤫 ). Feel free to contact me via LinkedIn or Email.
-<br /><br />
+I love to learn and contribute in any and every possible way .So, check my repositories. Hope, you'll find something usefull there.
 
 <h2> Github Stats </h2> 
-<a href="https://github.com/Elcaveman/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcaveman&layout=compact&theme=tokyonight" /></a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Elcaveman&theme=tokyonight" alt="Elcaveman" />
-<br/>
-<!--<a href="https://github.com/Elcaveman/" target="_blank">
-  <img align="left" alt="Mehdi's Github" width="25px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
+<!--<a href="https://github.com/Elcaveman/github-readme-stats">
+	<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcaveman&layout=compact&theme=tokyonight" />
 </a>-->
-<!-- make sure to check the icons creators at flaticon.com 
-"https://www.flaticon.com/fr/auteurs/smashicons" : Email icon
-"https://www.freepik.com" : Linkdin icon
-"https://www.flaticon.com/fr/auteurs/pixel-perfect" : Github Icon-->
+<div>
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Elcaveman&show_icons=true&theme=tokyonight"/>
+<img width="45%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Elcaveman&theme=tokyonight" alt="Elcaveman"/>
+</div>
+
+
