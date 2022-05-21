@@ -15,7 +15,7 @@
   <img align="left" alt="Mehdi's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
 </a>
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcaveman&theme=tokyonight&hide_langs_below=1" />
+<img align="right" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcaveman&theme=tokyonight&hide_langs_below=1" />
 
 ## 👋 Hi, my name is El Mehdi Oudaoud
 - 🏦 I'm a 22 years old software engineer, working for <a href="https://www.datama.io/fr/accueil/" target="_blank">Datama Paris</a> a startup incubated by Station F. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -63,13 +63,13 @@
 
 I love to learn and contribute in any and every possible way .So, check my repositories. Hope, you'll find something usefull there.
 
-<h2> Github Stats </h2> 
+<h2> 📊 Github Stats </h2> 
 <!--<a href="https://github.com/Elcaveman/github-readme-stats">
 	<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcaveman&layout=compact&theme=tokyonight" />
 </a>-->
 
-<img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=Elcaveman&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Elcaveman&theme=tokyonight" width="450px" alt="Elcaveman"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Elcaveman&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Elcaveman&theme=tokyonight" alt="Elcaveman"/>
 
 
 
