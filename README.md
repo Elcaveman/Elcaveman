@@ -21,12 +21,12 @@ nekko
 <img align="right" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcaveman&theme=tokyonight&hide_langs_below=1" />
 
 ## Hello There!
-#### My name is *El Mehdi Oudaoud* I'm a 23 years old *Software Engineer*.
+#### My name is *El Mehdi Oudaoud* I'm a 23 year old *Software Engineer*.
 - 🏦  Currently working as a Full-stack developer for <a href="https://www.datama.io/fr/accueil/" target="_blank">Datama Paris</a> a startup incubated by Station F. 
 <!-- - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)-->
-- 📚 Got a solid foundation in Mathematics, Physics, Networks & Web Technologies.
-- 💻 Proefficent with **Python**, **Java** , **SQL** and **Javascript**.
-- ⚡ Currently learning about Angular and Pandas 🐼.
+- 📚 Have a solid foundation in Mathematics, Physics, Networks & Web Technologies.
+- 💻 Proficient with **Python**, **Java** , **SQL** and **Javascript**.
+- ⚡ Currently learning Angular and Pandas 🐼.
 - 💬 What's your favourite quote? Mine is : **It works on my machine.**
 - 📖 Languages: English - Français - العربية - 日本語 ( just kidding I do speak japanese but my writing is caveman level ಥ_ಥ )
 - 🔺 Graduated from [École Nationale Supérieure d'Informatique et d'Analyse des Systèmes](http://ensias.um5.ac.ma/). ( Thank you Google! )
@@ -61,8 +61,6 @@ nekko
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
 	<!--Linux-->
 	<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="55" height="55"/> 
-	
-      
 </p>
 <br/>
 <h2> 📊 Github Stats </h2> 
