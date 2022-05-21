@@ -27,7 +27,7 @@
 - 💬 What's your favourite quote? Mine is : **It works on my machine.**
 - 📖 Languages: English - Français - العربية - 日本語 ( just kidding I do speak japanese but my writing is caveman level ಥ_ಥ )
 - 🔺 Graduated from [École Nationale Supérieure d'Informatique et d'Analyse des Systèmes](http://ensias.um5.ac.ma/). ( Thank you Google! )
-
+<br/><br/>
 <p align="center">
       	<!--Node JS -->
 	<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
@@ -61,9 +61,7 @@
 	
       
 </p>
-
-I love to learn and contribute in any and every possible way .So, check my repositories. Hope, you'll find something usefull there.
-
+<br/>
 <h2> 📊 Github Stats </h2> 
 <!--<a href="https://github.com/Elcaveman/github-readme-stats">
 	<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcaveman&layout=compact&theme=tokyonight" />
