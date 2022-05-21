@@ -32,7 +32,6 @@
      	<!--Spring Boot-->
 	<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="55" height="55"/>
 	<!--Flask-->
-	<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="55" height="55" fill="#fff"/>
 	<!--Django-->
 	<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="55" height="55"/>
 	<!--Vue-->
