@@ -15,16 +15,17 @@
   <img align="left" alt="Mehdi's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
 </a>
 -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcaveman&theme=tokyonight&hide_langs_below=1" />
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Hello, My name is El Mehdi Oudaoud:
+## 👋 Hi, my name is El Mehdi Oudaoud
 - 🏦 I'm a 22 years old software engineer, working for <a href="https://www.datama.io/fr/accueil/" target="_blank">Datama Paris</a> a startup incubated by Station F. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <!-- - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)-->
 - 📚 Got a solid foundation in Mathematics, Physics, Networks & Web Technologies.
 - 💻 Proefficent with **Python**, **Java** , **SQL** and **Javascript**.
 - ⚡ Currently learning about Angular and Pandas 🐼.
 - 💬 What's your favourite quote? Mine is : **It works on my machine.**
-- 📖 Languages: English - Français - العربة - 日本語 ( just kidding I do speak japanese but my writing is caveman level )
-- 🔺 Graduated from [École Nationale Supérieure d'Informatique et d'Analyse des Systèmes](http://ensias.um5.ac.ma/). (Thank you Youtube)
+- 📖 Languages: English - Français - العربية - 日本語 ( just kidding I do speak japanese but my writing is caveman level ಥ_ಥ )
+- 🔺 Graduated from [École Nationale Supérieure d'Informatique et d'Analyse des Systèmes](http://ensias.um5.ac.ma/). ( Thank you Google! )
 
 <p align="center">
       	<!--Node JS -->
@@ -66,9 +67,10 @@ I love to learn and contribute in any and every possible way .So, check my repos
 <!--<a href="https://github.com/Elcaveman/github-readme-stats">
 	<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcaveman&layout=compact&theme=tokyonight" />
 </a>-->
-<div>
+
 <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api?username=Elcaveman&show_icons=true&theme=tokyonight"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elcaveman&theme=tokyonight" width="450px" alt="Elcaveman"/>
-</div>
+
+
 
 
