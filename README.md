@@ -67,9 +67,11 @@ I love to learn and contribute in any and every possible way .So, check my repos
 <!--<a href="https://github.com/Elcaveman/github-readme-stats">
 	<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcaveman&layout=compact&theme=tokyonight" />
 </a>-->
+<img align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Elcaveman&theme=tokyonight" alt="Elcaveman"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Elcaveman&show_icons=true&theme=tokyonight"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Elcaveman&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Elcaveman&theme=tokyonight" alt="Elcaveman"/>
+
+
 
 
 
