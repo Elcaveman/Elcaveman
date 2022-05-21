@@ -17,7 +17,7 @@
 -->
 <img align="right" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcaveman&theme=tokyonight&hide_langs_below=1" />
 
-## Hi 👋
+## 👋 Hello There!
 #### My name is *El Mehdi Oudaoud* I'm a 23 years old *Software Engineer* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🏦  Currently working as a Full-stack developer for <a href="https://www.datama.io/fr/accueil/" target="_blank">Datama Paris</a> a startup incubated by Station F. 
 <!-- - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)-->
