@@ -13,12 +13,15 @@
 <br/> 
 <!--<a href="channel">
   <img align="left" alt="Mehdi's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+nekko
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </a>
 -->
 <img align="right" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcaveman&theme=tokyonight&hide_langs_below=1" />
 
-## Hello There! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-#### My name is *El Mehdi Oudaoud* I'm a 23 years old *Software Engineer* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## Hello There!
+#### My name is *El Mehdi Oudaoud* I'm a 23 years old *Software Engineer*.
 - 🏦  Currently working as a Full-stack developer for <a href="https://www.datama.io/fr/accueil/" target="_blank">Datama Paris</a> a startup incubated by Station F. 
 <!-- - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)-->
 - 📚 Got a solid foundation in Mathematics, Physics, Networks & Web Technologies.
