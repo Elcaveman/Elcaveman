@@ -22,13 +22,13 @@ nekko
 
 ## Hello There!
 #### My name is *El Mehdi Oudaoud* I'm a 23 year old *Software Engineer*.
-- 🏦  Currently working as a Full-stack developer for <a href="https://www.datama.io/fr/accueil/" target="_blank">Datama Paris</a> a startup incubated by Station F. 
+- 🏦  Currently working as a Full-stack developer for <a href="https://www.datama.io/fr/accueil/" target="_blank">Datama Paris</a>, a startup incubated by LVMH at Station F. 
 <!-- - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)-->
 - 📚 Have a solid foundation in Mathematics, Physics, Networks & Web Technologies.
-- 💻 Proficient with **Python**, **Java** , **SQL** and **Javascript**.
+- 💻 Proficient in **Python**, **Java** , **SQL** and **Javascript**.
 - ⚡ Currently learning Angular and Pandas 🐼.
 - 💬 What's your favourite quote? Mine is : **It works on my machine.**
-- 📖 Languages: English - Français - العربية - 日本語 ( just kidding I do speak japanese but my writing is caveman level ಥ_ಥ )
+- 📖 Languages: English-Français-العربية-日本語 ( just kidding I do speak japanese but my writing is caveman level ಥ_ಥ )
 - 🔺 Graduated from [École Nationale Supérieure d'Informatique et d'Analyse des Systèmes](http://ensias.um5.ac.ma/). ( Thank you Google! )
 <br/><br/>
 <p align="center">
