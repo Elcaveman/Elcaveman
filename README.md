@@ -39,7 +39,7 @@ nekko
 	<!--Angular-->
 	<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="55" height="55"/>
 	<!--SASS-->
-	<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="SCSS" width="55" height="55"/>
+	<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="SCSS" width="80" height="50"/>
 	<!--Flask-->
 	<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="55" height="55"/>
 	<!--Django-->
