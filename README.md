@@ -34,15 +34,18 @@ nekko
 <p align="center">
       	<!--Node JS -->
 	<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-     	<!--Spring Boot-->
-	<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="55" height="55"/>
-	<!--Flask-->
-	<!--Django-->
-	<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="55" height="55"/>
 	<!--Vue-->
 	<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" width="55" height="55"/>
 	<!--Angular-->
 	<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="55" height="55"/>
+	<!--SASS-->
+	<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" alt="SCSS" width="55" height="55"/>
+	<!--Flask-->
+	<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="55" height="55"/>
+	<!--Django-->
+	<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" width="55" height="55"/>
+     	<!--Spring Boot-->
+	<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="55" height="55"/>
 	<!--Postgres-->
 	<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres" width="55" height="55"/>
 	<!--ElasticSearch-->
