@@ -31,6 +31,7 @@ nekko
 - 📖 Languages: English-Français-العربية-日本語 ( just kidding I do speak japanese but my writing is caveman level ಥ_ಥ )
 - 🔺 Graduated from [École Nationale Supérieure d'Informatique et d'Analyse des Systèmes](http://ensias.um5.ac.ma/). ( Thank you Google! )
 <br/><br/>
+## Skills
 <p align="center">
       	<!--Node JS -->
 	<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
