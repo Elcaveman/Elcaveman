@@ -27,7 +27,7 @@ nekko
 - 💻 Proficient in **Python**, **Java** , **SQL** and **Javascript**.
 - ⚡ Currently learning Angular and Pandas 🐼.
 - 💬 What's your favourite quote? Mine is : **It works on my machine.**
-- 📖 Languages: English-Français-العربية-日本語 ( just kidding I do speak japanese but my writing is caveman level ಥ_ಥ )
+- 📖 Languages: English-Français-العربية-日本語
 - 🔺 Graduated from [École Nationale Supérieure d'Informatique et d'Analyse des Systèmes](http://ensias.um5.ac.ma/). ( Thank you Google! )
 <br/><br/>
 ## Skills
