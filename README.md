@@ -18,12 +18,11 @@ nekko
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </a>
 -->
-<img align="right" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcaveman&theme=tokyonight&hide_langs_below=1" />
+<!--<img align="right" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcaveman&theme=tokyonight&hide_langs_below=1" />-->
 
 ## Hello There!
 #### My name is *El Mehdi Oudaoud* I'm a 23 year old *Software Engineer*.
 - 🏦  Currently working as a Full-stack developer for <a href="https://www.datama.io/fr/accueil/" target="_blank">Datama Paris</a>, a startup incubated by LVMH at Station F. 
-<!-- - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)-->
 - 📚 Have a solid foundation in Mathematics, Physics, Networks & Web Technologies.
 - 💻 Proficient in **Python**, **Java** , **SQL** and **Javascript**.
 - ⚡ Currently learning Angular and Pandas 🐼.
@@ -36,7 +35,7 @@ nekko
       	<!--JS-->
 	<img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="Javascript" width="55" height="55"/>
 	<!--Python-->
-	<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Java" width="55" height="55"/>
+	<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
 	<!--Java-->
 	<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="55" height="55"/>
 	<!--Vue-->
