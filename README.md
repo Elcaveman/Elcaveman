@@ -24,11 +24,11 @@ nekko
 #### My name is *El Mehdi Oudaoud* I'm a 23 year old *Software Engineer*.
 - 🏦  Currently working as a Full-stack developer for <a href="https://www.datama.io/fr/accueil/" target="_blank">Datama Paris</a>, a startup incubated by LVMH at Station F. 
 - 📚 Have a solid foundation in Mathematics, Physics, Networks & Web Technologies.
-- 💻 Proficient in **Python**, **Java** , **SQL** and **Javascript**.
-- ⚡ Currently learning Angular and Pandas 🐼.
+- ⚡ Proficient in **Javascript**,**Python**, **Java** and **SQL** .
+- 💻 Currently learning Azure & Data mining ⛏️.
 - 💬 What's your favourite quote? Mine is : **It works on my machine.**
 - 📖 Languages: English-Français-العربية-日本語
-- 🔺 Graduated from [École Nationale Supérieure d'Informatique et d'Analyse des Systèmes](http://ensias.um5.ac.ma/). ( Thank you Google! )
+- 🔺 Graduated from [École Nationale Supérieure d'Informatique et d'Analyse des Systèmes](http://ensias.um5.ac.ma/).
 <br/><br/>
 ## Skills
 <p align="center">
@@ -54,14 +54,10 @@ nekko
 	<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic" width="55" height="55"/>
 	<!--Firebase-->
 	<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="55" height="55"/>
-	<!--Jenkins-->
-	<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="55" height="55"/>
 	<!--Docker-->
 	<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="60" height="50"/>
 	<!--Git-->
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-	<!--Linux-->
-	<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="55" height="55"/> 
 </p>
 <br/>
 <h2> 📊 Github Stats </h2> 
