@@ -1,6 +1,6 @@
 <img src="tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv" height="300px" width="1300px"/>
 
-<a href="https://www.linkedin.com/in/el-mehdi-oudaoud-b796001a1/" target="_blank">
+<a href="https://www.linkedin.com/in/el-mehdi-oudaoud/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
