@@ -21,8 +21,8 @@ nekko
 <!--<img align="right" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcaveman&theme=tokyonight&hide_langs_below=1" />-->
 
 ## Hello There!
-#### My name is *El Mehdi Oudaoud* I'm a 23 year old *Software Engineer*.
-- 🏦  Currently working as a Full-stack developer for <a href="https://www.datama.io/fr/accueil/" target="_blank">Datama Paris</a>, a startup incubated by LVMH at Station F. 
+#### My name is *El Mehdi Oudaoud* I'm a 23 years old *Software Engineer*.
+- 🏦  Currently working as a Full-stack developer for Zsoft Consulting, Paris. 
 - 📚 Have a solid foundation in Mathematics, Physics, Networks & Web Technologies.
 - ⚡ Proficient in **Javascript**,**Python**, **Java** and **SQL** .
 - 💻 Currently learning Azure & Data mining ⛏️.
