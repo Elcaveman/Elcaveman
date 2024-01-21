@@ -21,23 +21,23 @@ nekko
 <!--<img align="right" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcaveman&theme=tokyonight&hide_langs_below=1" />-->
 
 ## Hello There!
-#### My name is *El Mehdi Oudaoud* I'm a 23 years old *Software Engineer*.
-- 🏦  Currently working as a Full-stack developer for Zsoft Consulting, Paris. 
+#### My name is *El Mehdi Oudaoud* I'm a 24 years old *Software Engineer*.
+- 🏦  Currently working as a Confirmed Full-stack Java Dev for Transactis, Paris. 
 - 📚 Have a solid foundation in Mathematics, Physics, Networks & Web Technologies.
-- ⚡ Proficient in **Javascript**,**Python**, **Java** and **SQL** .
-- 💻 Currently learning Azure & Data mining ⛏️.
-- 💬 What's your favourite quote? Mine is : **It works on my machine.**
+- ⚡ Proficient in **Java**,**Python**, **Javascript** and a bunch of other stuff .
+- 💻 Currently getting better at Kafka .
+- 💬 What's your favourite quote? Mine is : **If it doesn't work restart the VM.**
 - 📖 Languages: English-Français-العربية-日本語
 - 🔺 Graduated from [École Nationale Supérieure d'Informatique et d'Analyse des Systèmes](http://ensias.um5.ac.ma/).
 <br/><br/>
 ## Skills
 <p align="center">
+	<!--Java-->
+	<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="55" height="55"/>
       	<!--JS-->
 	<img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="Javascript" width="55" height="55"/>
 	<!--Python-->
 	<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
-	<!--Java-->
-	<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="55" height="55"/>
 	<!--Vue-->
 	<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" width="55" height="55"/>
 	<!--Angular-->
